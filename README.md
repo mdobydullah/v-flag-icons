@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <a href="https://vficons.netlify.com">
+  <a href="https://vficons.obydul.me">
     <img alt="Vue Flag Icons" src="https://user-images.githubusercontent.com/13184472/70064547-ef1bfd00-1613-11ea-81a4-c40498b993b5.png" width="120"/>
   </a>
 </p>
@@ -12,7 +12,7 @@ Use country flags as a Vue component
 > This project is under active development. Any feedback or contributions would be appreciated.
 
 ## Get Started
-Please read [simple documentation](https://vficons.netlify.com) to get started.
+Please read [simple documentation](https://vficons.obydul.me) to get started.
 
 ## Quick Start
 To install this package run the NPM command:
@@ -48,7 +48,7 @@ Now you can call in a component like this:
 ```
 
 ## More Options
-Read our [documentation](https://vficons.netlify.com) to see all features and usage such as:
+Read our [documentation](https://vficons.obydul.me) to see all features and usage such as:
 
 ```javascript
 <vf-icon country="bd" type="square"/>
