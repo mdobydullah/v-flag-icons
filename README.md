@@ -6,7 +6,23 @@
 </p>
 <h1 align="center">Vue Flag Icons</h1>
 <p align="center">
-Use country flags as a Vue component
+Use country flags as a Vue component. You can also use in any project without Vue.
+</p>
+
+<p align="center">
+  <a title="Latest Stable Version" href="https://www.npmjs.com/package/v-flag-icons">
+    <img alt="npm" src="https://img.shields.io/npm/v/v-flag-icons">
+  </a>
+  <a title="Weekly Downloads" href="https://www.npmjs.com/package/v-flag-icons">
+    <img alt="npm" src="https://img.shields.io/npm/dw/v-flag-icons">
+  </a>
+  <a title="License" href="LICENSE">
+    <img alt="NPM" src="https://img.shields.io/npm/l/v-flag-icons">
+  </a>
+  <a title="Follow the Developer" href="https://twitter.com/obydulsa">
+    <img src="https://img.shields.io/twitter/follow/obydulsa?label=Follow&style=social">
+  </a>
+  <br>
 </p>
 
 > This project is under active development. Any feedback or contributions would be appreciated.
