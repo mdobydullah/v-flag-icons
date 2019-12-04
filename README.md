@@ -59,7 +59,7 @@ Read our [documentation](https://vficons.obydul.me) to see all features and usag
 ```
 
 ## Credits
-The awesome flag icons are created by [Freepik](https://www.flaticon.com/authors/freepik) and this package flag icon created by [turkkub](https://www.flaticon.com/authors/turkkub).
+The awesome flag icons are created by [Freepik](https://www.flaticon.com/authors/freepik).
 
 ## License
 The package's licensed under the [MIT License](https://github.com/mdobydullah/v-flag-icons/blob/master/LICENSE). Please check the flag icons provider's [License](https://profile.flaticon.com/license/free).
