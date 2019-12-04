@@ -66,12 +66,25 @@ Now you can call in a component like this:
 ## More Options
 Read our [documentation](https://vficons.obydul.me) to see all features and usage such as:
 
-```javascript
+* Design Set 1:
+
+```html
+<vf-icon country="bd" type="rectangular"/>
 <vf-icon country="bd" type="square"/>
 <vf-icon country="bd" type="hexagonal"/>
 <vf-icon country="bd" type="rounded-square"/>
 <vf-icon country="bd" type="rounded-rectangle"/>
 <vf-icon country="bd" type="mast"/>
+```
+* Design Set 2:
+
+```html
+<vf-icon country="bd" type="rectangular" design="ds2"/>
+<vf-icon country="bd" type="square" design="ds2"/>
+<vf-icon country="bd" type="hexagonal" design="ds2"/>
+<vf-icon country="bd" type="rounded-square" design="ds2"/>
+<vf-icon country="bd" type="rounded-rectangle" design="ds2"/>
+<vf-icon country="bd" type="mast" design="ds2"/>
 ```
 
 ## Credits

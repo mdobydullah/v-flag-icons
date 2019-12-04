@@ -1,6 +1,6 @@
 {
   "name": "v-flag-icons",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/vf-icons.umd.js",
   "module": "dist/vf-icons.esm.js",
   "unpkg": "dist/vf-icons.min.js",
