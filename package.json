@@ -1,6 +1,7 @@
 {
   "name": "v-flag-icons",
-  "version": "1.0.3",
+  "version": "1.0.4",
+  "description": "Use country flags as a Vue component. You can also use in any project without Vue.",
   "main": "dist/vf-icons.umd.js",
   "module": "dist/vf-icons.esm.js",
   "unpkg": "dist/vf-icons.min.js",
