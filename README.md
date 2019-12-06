@@ -11,16 +11,19 @@ Use country flags as a Vue component. You can also use in any project without Vu
 
 <p align="center">
   <a title="Latest Stable Version" href="https://www.npmjs.com/package/v-flag-icons">
-    <img alt="npm" src="https://img.shields.io/npm/v/v-flag-icons">
+    <img alt="Latest Stable Version" src="https://img.shields.io/npm/v/v-flag-icons">
   </a>
   <a title="Weekly Downloads" href="https://www.npmjs.com/package/v-flag-icons">
-    <img alt="npm" src="https://img.shields.io/npm/dw/v-flag-icons">
+    <img alt="Weekly Downloads" src="https://img.shields.io/npm/dw/v-flag-icons">
+  </a>
+  <a title="jsDelivr Hits" href="https://www.npmjs.com/package/v-flag-icons">
+    <img alt="jsDelivr hits (npm)" src="https://img.shields.io/jsdelivr/npm/hw/v-flag-icons">
   </a>
   <a title="License" href="LICENSE">
-    <img alt="NPM" src="https://img.shields.io/npm/l/v-flag-icons">
+    <img alt="License" src="https://img.shields.io/npm/l/v-flag-icons">
   </a>
   <a title="Follow the Developer" href="https://twitter.com/obydulsa">
-    <img src="https://img.shields.io/twitter/follow/obydulsa?label=Follow&style=social">
+    <img alt="Follow the Developer" src="https://img.shields.io/twitter/follow/obydulsa?label=Follow&style=social">
   </a>
   <br>
 </p>
@@ -96,4 +99,10 @@ Read our [documentation](https://vficons.obydul.me) to see all features and usag
 The awesome flag icons are created by [Freepik](https://www.flaticon.com/authors/freepik).
 
 ## License
-The package's licensed under the [MIT License](https://github.com/mdobydullah/v-flag-icons/blob/master/LICENSE). Please check the flag icons provider's [License](https://profile.flaticon.com/license/free).
+The package is under the [MIT License](https://github.com/mdobydullah/v-flag-icons/blob/master/LICENSE) but the flag icons aren't free.  You can use all icons for free with attribution. Please check the flag icons provider's [Free License](https://profile.flaticon.com/license/free) terms and conditions. If you don't like to use icons with attribution, then please buy membership.
+
+## Note
+
+This package helps you to use Flaticon's flag icons easily. If you have any questions please [contact me](https://obydul.me/contact).
+
+Thank you for using Vue Flag Icons. :heart:
