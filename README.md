@@ -13,17 +13,11 @@ Use country flags as a Vue component. You can also use in any project without Vu
   <a title="Latest Stable Version" href="https://www.npmjs.com/package/v-flag-icons">
     <img alt="Latest Stable Version" src="https://img.shields.io/npm/v/v-flag-icons">
   </a>
-  <a title="Weekly Downloads" href="https://www.npmjs.com/package/v-flag-icons">
-    <img alt="Weekly Downloads" src="https://img.shields.io/npm/dw/v-flag-icons">
-  </a>
-  <a title="jsDelivr Hits" href="https://www.npmjs.com/package/v-flag-icons">
-    <img alt="jsDelivr hits (npm)" src="https://img.shields.io/jsdelivr/npm/hw/v-flag-icons">
-  </a>
   <a title="License" href="LICENSE">
     <img alt="License" src="https://img.shields.io/npm/l/v-flag-icons">
   </a>
   <a title="Follow the Developer" href="https://twitter.com/obydulsa">
-    <img alt="Follow the Developer" src="https://img.shields.io/twitter/follow/obydulsa?label=Follow&style=social">
+    <img alt="Follow the Developer" src="https://img.shields.io/twitter/follow/imobydul?label=Follow&style=social">
   </a>
   <br>
 </p>
