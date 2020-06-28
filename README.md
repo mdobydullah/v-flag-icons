@@ -16,8 +16,8 @@ Use country flags as a Vue component. You can also use in any project without Vu
   <a title="License" href="LICENSE">
     <img alt="License" src="https://img.shields.io/npm/l/v-flag-icons">
   </a>
-  <a title="Follow the Developer" href="https://twitter.com/obydulsa">
-    <img alt="Follow the Developer" src="https://img.shields.io/twitter/follow/imobydul?label=Follow&style=social">
+  <a title="Follow the Developer" href="https://twitter.com/obydulme">
+    <img alt="Follow the Developer" src="https://img.shields.io/twitter/follow/obydulme?label=Follow&style=social">
   </a>
   <br>
 </p>
